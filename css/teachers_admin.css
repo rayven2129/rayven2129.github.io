@@ -1,0 +1,12 @@
+
+.background-content, .header-navigation{
+	background-color: white;
+	border-radius: 12px;
+}
+th{
+	font-size: 14px;
+}
+.content-navigation-grades{
+	display: flex;
+	justify-content: center;
+}
